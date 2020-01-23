@@ -1,0 +1,19 @@
+#P es un mamifero?
+#P es un animal domestico?
+#P maulla?
+#R Gato
+#P 
+#R 
+#R un perro
+#P es un animal de granja?
+#R una oveja
+#R un elefante
+#P es un ave?
+#P es nocturno?
+#R un pinguino
+#R Buho
+#P vive en el oceano?
+#R un calamar
+#P Son altas
+#R Un jiraffa
+#R una araña
